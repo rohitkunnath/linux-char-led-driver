@@ -21,15 +21,15 @@ It demonstrates how to implement file operations (`open`, `read`, `write`, `rele
 ---
 
 ## 🧱 Folder Structure
+```bash
 linux-char-led-driver/
 ├── src/
 │ ├── led_driver.c
 │ └── test_led_user.c
 ├── Makefile
 └── README.md
+```
 
-yaml
-Copy code
 
 ---
 
